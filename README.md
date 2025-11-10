@@ -1,5 +1,5 @@
 # JE-archive
-Archives of files relating to Jokingly Evil. All files CC-BY-SA 4.0.
+Archives of files relating to Jokingly Evil. All files CC-BY-SA 4.0, except where noted.
 ## 2010-2023
 Contains everything pre-Covers EP. Primarily Hands-Down Guitar and Looper Fun EP.
 ## 2023-2024
